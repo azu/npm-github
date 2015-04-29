@@ -1,0 +1,27 @@
+{
+  "name": "@azu/github",
+  "version": "1.0.0",
+  "main": "bin/npm-github.js",
+  "bin": {
+    "azu-github": "bin/npm-github.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/npm-github.git"
+  },
+  "keywords": [
+    "azu"
+  ],
+  "bugs": {
+    "url": "https://github.com/azu/npm-github/issues"
+  },
+  "homepage": "https://github.com/azu/npm-github",
+  "dependencies": {
+    "open": "0.0.5"
+  }
+}
