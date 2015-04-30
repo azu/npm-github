@@ -1,12 +1,11 @@
 {
   "name": "@azu/github",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "bin/npm-github.js",
   "bin": {
     "azu-github": "bin/npm-github.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "author": "azu",
   "license": "MIT",
   "repository": {
